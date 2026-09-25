@@ -20,7 +20,7 @@ I offer a unique blend of skills: I don't just write code; I build systems with 
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | Python, PHP, JavaScript (JQuery) |
-| **Databases** | Oracle Database, MySQL, Hadoop, PostgreSQL |
+| **Databases** | Oracle Database, MySQL, Hadoop, PostgreSQL, Redis |
 | **Security/Forensics** | SIEM (Splunk, Wazuh), FTK Imager, Volatility 3, Wireshark, Malware Analysis |
 | **Cloud & DevOps** | AWS Knowledge, Azure Knowledge, Docker, GitHub, Private Inference |
 | **Frameworks & Tools** | CodeIgniter, ISO 27001, COBIT, NIST CSF, Tableau, UIPath, N8N |
