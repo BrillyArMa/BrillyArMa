@@ -4,8 +4,6 @@
 
 My passion lies in ensuring that technology not only functions efficiently but also adheres to the highest standards of security (ISO 27001) and data integrity.
 
-[![Brilly's GitHub stats](https://github-stats-extended.vercel.app/api?username=brillyarma&show_icons=true&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
-
 ---
 
 ## 🚀 Core Expertise & Value Proposition
@@ -52,3 +50,7 @@ I am always open to discussing opportunities in **Cybersecurity Engineering**, *
 📧 **Email:** brillyarfendogautama@gmail.com
 📍 **Location:** Depok, Indonesia
 🔗 www.linkedin.com/in/brilly-arfendo-gautama 
+
+---
+
+[![Brilly's GitHub stats](https://github-stats-extended.vercel.app/api?username=brillyarma&show_icons=true&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
